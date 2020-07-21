@@ -1,0 +1,23 @@
+.header_white .sf-menu > li > a:hover, .header_white .sf-menu > li.active > a {
+    color: #00a651 !important;
+}
+.sf-menu ul a:hover,
+.sf-menu ul li.active > a {
+    color: #00a651 !important;
+}
+
+.page_breadcrumbs h2 {
+    text-transform: capitalize !important;
+}
+.section_header {
+    text-transform: capitalize !important;
+}
+.ls a {
+    color: #00a651 !important;
+}
+.ls .highlight {
+    color: #00a651 !important;
+}
+.parallax.cs.gradient2:after {
+    background: none !important;
+}
