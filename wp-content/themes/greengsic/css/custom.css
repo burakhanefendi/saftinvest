@@ -69,3 +69,6 @@
 .teaser_icon img {
     height: 165px !important;
 }
+.parallax {
+    background-attachment: unset;
+}
