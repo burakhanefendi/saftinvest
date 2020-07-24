@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/animations.css">
     <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/fonts.css">
     <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/main.css?ver=1" class="color-switcher-link">
-    <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/custom.css?ver=16">
+    <link rel="stylesheet" href="<?=get_template_directory_uri(); ?>/css/custom.css?ver=17">
     <link href="<?=get_template_directory_uri(); ?>/css/animate.min.css" rel="stylesheet">
     <link href="<?=get_template_directory_uri(); ?>/css/range_slides_carousel.css" rel="stylesheet" media="all">
     <link href="<?=get_template_directory_uri(); ?>/fontawesome/webfonts/fontawesome.min.css" rel="stylesheet" media="all">
