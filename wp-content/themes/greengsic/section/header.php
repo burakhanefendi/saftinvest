@@ -39,7 +39,7 @@
 								</span>
                             <span class="small-text">
 									<i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i>
-									<a style="text-transform: lowercase" href="#">info@saffinvest</a>
+									<a style="text-transform: lowercase" href="#">info@saffinvest.com</a>
 								</span>
                         </div>
                     </div>
