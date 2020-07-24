@@ -162,7 +162,7 @@
 
                             <!-- gallery -->
                             <li>
-                                <a href="#">Markalar</a>
+                                <a href="/markalar">Markalar</a>
                             </li>
                             <!-- eof Gallery -->
 
