@@ -5,11 +5,10 @@
             <div class="col-md-4 col-sm-12 text-center to_animate" data-animation="fadeInUp">
                 <div class="widget">
                     <a href="/" class="logo top_logo">
-                        <img src="/wp-content/uploads/2020/07/disi_Iogo.png">
+                        <img src="/wp-content/uploads/2020/07/saffinvest_Iogo-disi.png">
                     </a>
                     <p>
-                        2014 yılında İstanbul’da kurulan GREENGSIC, Gayrimenkul, Sanayi, Endüstriyel, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.
-                    </p>
+                        2004 yılında İstanbul’da kurulan Saff İnvest Holding, Gayrimenkul, Sanayi, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.                    </p>
 
                     <div class="topmargin_30">
                         <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
@@ -50,15 +49,14 @@
                     <h3 class="widget-title">İLETİŞİM BİLGİLERİMİZ</h3>
 
                     <p>
-                        <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Future Park Istanbul<br>
-                        Akevler Mah., 1069. Sok., No:9I, E-block 17. kat D141 Esenyurt,
-                        İstanbul, Turkey
+                        <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk.
+                        No: 9 Şişli-İstanbul - Türkiye
                     </p>
                     <p>
-                        <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i> +90 543 410 80 58
+                        <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i> 0(212) 295 85 98
                     </p>
                     <p>
-                        <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greengsic.com">info@greenngsic.com</a>
+                        <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@greengsic.com">info@saffinvest.com</a>
                     </p>
 
                 </div>
@@ -72,7 +70,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <p class="small-text bold">&copy; Copyright 2020 All Rights Reserved | Designer <a href="https://espassistanbul.com">Espass İstanbul</a></p>
+                <p class="small-text bold">&copy; Copyright 2020 All Rights Reserved | <a href="https://espassistanbul.com">Espass İstanbul</a></p>
             </div>
         </div>
     </div>
@@ -82,6 +80,10 @@
 <!-- eof #box_wrapper -->
 </div>
 <!-- eof #canvas -->
+<!--======= Touch Swipe =========-->
+
+<!--======= Customize =========-->
+<script src="<?=get_template_directory_uri(); ?>/js/responsive_bootstrap_carousel.min.js"></script>
 
 <script src="<?=get_template_directory_uri(); ?>/js/compressed.js"></script>
 <script src="<?=get_template_directory_uri(); ?>/js/main.js"></script>
@@ -89,6 +91,8 @@
 
 <!--======= Customize =========-->
 <script src="<?=get_template_directory_uri(); ?>/js/responsive_bootstrap_carousel.min.js"></script>
+<script src="<?=get_template_directory_uri(); ?>/js/paradise_slider_min.js"></script>
+
 
 
 </body>

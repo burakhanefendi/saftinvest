@@ -41,7 +41,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/sugar.jpg">
+                        <img src="/wp-content/uploads/2020/07/seker-1.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         ŞEKER
@@ -86,7 +86,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <img src="/wp-content/uploads/2020/07/yağ.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                        Yemeklik Yağlar
@@ -94,13 +94,13 @@ get_header(); ?>
                     <p>
                     <ul style="text-align: left">
                         <li>
-                            RBD Palmiye Yağı
+                            Palmiye Yağı
                         </li>
                         <li>
                             Ham Ayçiçek Yağı
                         </li>
                         <li>
-                            Ham Degummed Mısır Yağı
+                             Mısır Yağı
                         </li>
                         <li>
                             Soya Yağı
@@ -110,10 +110,12 @@ get_header(); ?>
 
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                       <img src="/wp-content/uploads/2020/07/taneIer2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Taneler
@@ -140,99 +142,63 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <img src="/wp-content/uploads/2020/07/çay.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Çay (Çay Taprakları ve Poşetleri)
+                        Çay (Çay Yaprakları ve Poşetleri)
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Hindistan
-                        </li>
-                        <li>
-                            Sri-Lanka
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <img src="/wp-content/uploads/2020/07/rendeIenmiş-hindistan-cevizi.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Rendelenmiş Hindistan Cevizi Tozu
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Sri-Lanka
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
+        </div>
+        <div class="row">
+
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <img src="/wp-content/uploads/2020/07/tuz.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Tuz
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Pakistan
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <img src="/wp-content/uploads/2020/07/choco2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Ultra Choco
+                        Kakao
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Malezya
-                        </li>
-                        <li>
-                            Endonezya
-                        </li>
-                        <li>
-                            Ukrayna
-                        </li>
-                    </ul>
-                    </p>
+
 
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <img src="/wp-content/uploads/2020/07/soya.png">
                     </div>
                     <h4 class="text-uppercase text-center">
-                        Soya Unu
+                        Susam
                     </h4>
                     <p>
                     <ul style="text-align: left">
                         <li>
-                            Brezilya
-                        </li>
-                        <li>
-                            Arjantin
+                            Sudan
                         </li>
                     </ul>
                     </p>
@@ -244,6 +210,7 @@ get_header(); ?>
     </div>
 
 </section>
+<?php include('section/world.php') ?>
 
 
 <?php get_footer() ?>

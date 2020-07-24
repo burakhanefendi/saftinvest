@@ -21,7 +21,7 @@
                                 <div class="slide_description_wrapper">
                                     <div class="slide_description">
                                         <div class="intro-layer" data-animation="fadeInUp">
-                                            <h3 class="text-uppercase" style="background-color: #000080; font-size: 70px">
+                                            <h3 class="text-uppercase" style="background-color: #000080; font-size: 40px">
                                                 <?php the_content();?>
                                             </h3>
                                         </div>

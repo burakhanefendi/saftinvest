@@ -33,13 +33,13 @@
                 <div class="row">
                     <div class="col-sm-4 text-center text-sm-left">
                         <div class="inline-content darklinks">
-								<span>
+								<span style="color: #ffffff;">
 									<i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-									+90 543 410 80 58
+									0(212) 295 85 98
 								</span>
                             <span class="small-text">
 									<i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i>
-									<a href="#">info@greengsic.com</a>
+									<a style="text-transform: lowercase" href="#">info@saffinvest</a>
 								</span>
                         </div>
                     </div>
@@ -47,10 +47,20 @@
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
-                            <a class="social-icon color-icon soc-google" href="#" title="Google"></a>
-                            <a class="social-icon color-icon soc-skype" href="#" title="Skype"></a>
                             <a class="social-icon color-icon soc-youtube" href="#" title="Youtube"></a>
+                            <a class="social-icon color-icon soc-linkedin" href="#" title="Youtube"></a>
+                            <a class="social-icon color-icon soc-instagraö" href="#" title="Youtube"></a>
+
                         </div>
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <!-- Example single danger button -->
+                        <select class="selectpicker" data-width="fit" style="color: #ffffff;">
+                            <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
+                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
+
+                        </select>
                     </div>
 
                 </div>
@@ -93,6 +103,9 @@
                                     <li>
                                         <a href="/nasil-calisiyoruz">Nasıl Çalışıyoruz</a>
                                     </li>
+                                    <li>
+                                        <a href="/grup-sirketlerimiz/">Grup Şirketlerimiz</a>
+                                    </li>
                                 </ul>
                             </li>
                             <!-- eof pages -->
@@ -104,7 +117,10 @@
                                         <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
                                     </li>
                                     <li>
-                                        <a href="/gida">Gıda</a>
+                                        <a href="/gida">Gıda Ürünleri</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diger-gida-urunleri/">Diğer Gıda Ürünler</a>
                                     </li>
                                     <li>
                                         <a href="/tarim">Tarım</a>
@@ -152,13 +168,13 @@
 
                             <!-- blog -->
                             <li>
-                                <a href="blog-right.html">Tesisler</a>
+                                <a href="/tesisler-2/">Tesisler</a>
                             </li>
                             <!-- eof blog -->
 
                             <!-- contacts -->
                             <li>
-                                <a href="contact.html">Bize Ulaşın</a>
+                                <a href="/iletisim">Bize Ulaşın</a>
                             </li>
                             <!-- eof contacts -->
                         </ul>
@@ -173,3 +189,8 @@
         </div>
     </div>
 </header>
+        <script>
+            $(function(){
+                $('.selectpicker').selectpicker();
+            });
+            </script>

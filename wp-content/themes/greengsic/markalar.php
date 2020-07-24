@@ -26,7 +26,7 @@ get_header(); ?>
 <section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
     <div class="container">
         <div class="row">
-            <div class="col-md-12" style="text-align: center;">
+            <div class="col-md-12">
 
                 <p><?php the_content();?></p>
                 <?php endwhile; else : ?>
@@ -37,41 +37,105 @@ get_header(); ?>
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div id="gallery-owl-carousel" class="owl-carousel dots-center with_background_items" data-dots="true" data-items="3" data-responsive-lg="3" data-responsive-md="2" data-responsive-sm="2" data-responsive-xs="1">
 
-                    <?php
-                    $loop = new WP_Query( array(
-                            'post_type' => 'markalar',
-                            'posts_per_page' => -1
-                        )
-                    );
-                    ?>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/yag.png">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Sıvı Yağlar ve Katı Yağlar
+                    </h4>
 
-                    <?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
-                        <?php $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full'); ?>
-                        <article class="vertical-item content-padding post format-standard with_border rounded text-center">
-
-                            <div class="item-media">
-
-                                <img style="height: 250px;" src="<?php echo $thumb['0'];?>" alt="">
-
-                                <div class="media-links">
-                                    <div class="links-wrap">
-                                        <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="<?php echo $thumb['0'];?>"></a>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </article>
-                    <?php endwhile; wp_reset_query(); ?>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/kompostooo.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Komposto ve Meyve Suları
+                    </h4>
 
 
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/makarnaaaaa.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Makarna
+                    </h4>
 
 
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/princ-1.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Pirinç
+                    </h4>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/seker-2.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Şeker
+                    </h4>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/cay.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Çay
+                    </h4>
+                </div>
+            </div>
+    </div><div class="row">
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/salca-1.png">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Salça
+                    </h4>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/konserve_08-1.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Konserve
+                    </h4>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="teaser with_border text-center">
+                    <div class="teaser_icon highlight size_small">
+                        <img src="/wp-content/uploads/2020/07/akasya_su2.jpg">
+                    </div>
+                    <h4 class="text-uppercase text-center">
+                        Su
+                    </h4>
+                </div>
+            </div>
         </div>
     </div>
 

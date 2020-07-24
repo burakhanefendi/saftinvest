@@ -23,7 +23,7 @@ get_header(); ?>
     </div>
 </section>
 
-<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
+<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30" style="margin-top: 20px;">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-md-push-6">
@@ -41,330 +41,341 @@ get_header(); ?>
         </div>
         <?php endif; ?>
     </div>
+</section>
 
-    <div class="col-sm-12">
+    <?php include('section/world.php') ?>
 
-        <div class="isotope_container isotope row masonry-layout columns_margin_bottom_20" style="position: relative; height: 1652.11px;">
+<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
+    <div class="container">
+        <div class="col-sm-12">
 
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
+            <div class="isotope_container isotope row masonry-layout columns_margin_bottom_20" style="position: relative; height: 1652.11px;">
 
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/08CAMPBELLS-facebookJumbo-v2.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/gida" class="abs-link"></a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Gıda Ürünleri</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/gida">Gıda Ürünleri</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Dünyanın dört bir yanından satın alınan geniş kaliteli ürün yelpazemizden birini seçin.</p>
+                            </div>
                         </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/gida">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/08CAMPBELLS-facebookJumbo-v2.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="diger-gida-urunleri/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="diger-gida-urunleri/">Diğer Gıda Ürünleri</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Dünyanın seçkin ve zengin kaynaklarından sizin için<br> gedirildi.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="diger-gida-urunleri/">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/tarım.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Tarım</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Verimli topraklardan, kalitesinden ödün mermeden tedarik ediyoruz.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/yatırım_danışmanığı.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Yatırım Danışmanlığı</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Yatırımlarınızı doğru yerlerde değerlendirerek, kazançlarınızı büyütüyoruz.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/enerji.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Enerji</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Sürdürülebilir enerjide dünyanın en verimli kaynakarını sizin için sunuyoruz.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/hayvncilik2-1.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Hayvancılık</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Çiftlik hayvanları, canlı hayvan ithalat ve ihracatını birçok ülkeye gerçekleştirmekteyiz</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/VOdSmNdjuj.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">İnşaat Üst ve Altyapı</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik çözüm ve<br> imkan.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/sagIık.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Sağlık Turizmi</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Dünyanın en gelişmiş, sağlık alanındaki tüm olanakarı sizin için buluyoruz
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/egitim.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Eğitim</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Eğitim konusunda, yurt dışı öğrenci değişimleri ve vize işlemlerinizde çözüm sunuyoruz.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/O1CN01R2q0TW24GImhHv1Hb_6000000007363-0-tbvideo.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Doğal Taş</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Tarihin güzelliklerini doğal taşlar üzerinde şekillendirerek, dünya pazarına sunuyoruz.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/tekstiIe.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Tekstil</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Geniş ürün gamı ve ürün yelpazesiyle tekstilde birçok noktada sizin yanınızdayız.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/Iojistik.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="blog-single-right.html" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="blog-single-right.html">Lojistik</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Dünyanın her noktasına, kara, hava ve deniz lojistik hizmet ve noktalarımızla hizmetinizdeyiz.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
 
             </div>
+            <?php include('section/brand.php') ?>
 
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Diğer Gıda Ürünleri</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/tarım.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Tarım</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/yatırım_danışmanığı.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Yatırım Danışmanlığı</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/enerji.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Enerji</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/otomotiv.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Otomotiv</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/VOdSmNdjuj.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">İnşaat Altyapı</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/sagIık.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Sağlık Turizmi</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/egitim.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Eğitim</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/turizm.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Turizm</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/tekstiIe.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Tekstil</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
-            <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                <article class="vertical-item content-padding text-center with_border rounded">
-                    <div class="item-media top_rounded overflow_hidden">
-                        <img src="/wp-content/uploads/2020/07/Iojistik.jpg" style="max-height: 140px" alt="">
-                        <div class="media-links">
-                            <a href="blog-single-right.html" class="abs-link"></a>
-                        </div>
-                    </div>
-                    <div class="item-content">
-                        <header class="entry-header">
-                            <h5 class="entry-title">
-                                <a href="blog-single-right.html">Lojistic</a>
-                            </h5>
-                        </header>
-                        <div class="entry-content">
-                            <p>Consetur sadscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                    <footer class="entry-meta with_top_border darklinks">
-                        <a class="btn btn-default btn-lg" href="#">Detaylı Bilgi</a>
-                    </footer>
-                </article>
-
-            </div>
 
         </div>
-        <!-- eof .isotope_container.row -->
-
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <img src="img/loading.png" alt="" class="fa-spin">
-            </div>
-        </div>
-
     </div>
 
+
+
 </section>
+
+
 
 
 <?php get_footer() ?>
