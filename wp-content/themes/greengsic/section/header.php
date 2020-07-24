@@ -137,7 +137,7 @@
                                         <a href="/otomotiv-2">Otomotiv</a>
                                     </li>
                                     <li>
-                                        <a href="/insaat-altyapi">İnşaat Altyapı</a>
+                                        <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
                                     </li>
                                     <li>
                                         <a href="/saglik-turizmi">Sağlık Turizmi</a>
