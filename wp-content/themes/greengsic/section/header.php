@@ -134,7 +134,7 @@
                                         <a href="/enerji-2">Enerji</a>
                                     </li>
                                     <li>
-                                        <a href="/otomotiv-2">Otomotiv</a>
+                                        <a href="/maden-dogal-tas">Maden - Doğal Taş</a>
                                     </li>
                                     <li>
                                         <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
