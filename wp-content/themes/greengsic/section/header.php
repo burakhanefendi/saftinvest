@@ -146,7 +146,7 @@
                                         <a href="/egitim-2">Eğitim</a>
                                     </li>
                                     <li>
-                                        <a href="/turizm-2">Turizm</a>
+                                        <a href="/hayvancilik-2/">Hayvancılık</a>
                                     </li>
                                     <li>
                                         <a href="/tekstil">Tekstil</a>
