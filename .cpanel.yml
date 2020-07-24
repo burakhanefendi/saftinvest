@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/saftinvest/public_html/
+    - export DEPLOYPATH=/home/saffinvest/public_html/
     - /bin/cp -R * $DEPLOYPATH
