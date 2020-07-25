@@ -86,7 +86,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/yağ.jpg">
+                        <img src="/wp-content/uploads/2020/07/yag-1.png">
                     </div>
                     <h4 class="text-uppercase text-center">
                        Yemeklik Yağlar
@@ -115,7 +115,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                       <img src="/wp-content/uploads/2020/07/taneIer2.jpg">
+                       <img src="/wp-content/uploads/2020/07/tane2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Taneler
@@ -142,7 +142,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/çay.jpg">
+                        <img src="/wp-content/uploads/2020/07/cay-2.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Çay (Çay Yaprakları ve Poşetleri)
@@ -153,7 +153,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/rendeIenmiş-hindistan-cevizi.jpg">
+                        <img src="/wp-content/uploads/2020/07/hind-ceviz.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Rendelenmiş Hindistan Cevizi Tozu
