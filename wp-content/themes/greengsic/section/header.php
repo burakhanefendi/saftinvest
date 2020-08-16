@@ -53,14 +53,19 @@
 
                         </div>
                     </div>
-                    <div class="col-sm-4 text-center">
+                    <div class="col-sm-4 text-center mobile-hidden">
                         <!-- Example single danger button -->
-                        <select class="selectpicker" data-width="fit" style="color: #ffffff;">
-                            <option data-content='<span class="flag-icon flag-icon-us"></span> English'>Türkçe</option>
-                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>İngilizce</option>
-                            <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Arapça</option>
-
-                        </select>
+                        <nav>
+                            <ul class="sf-menu" style="height: 50px">
+                                <li style="height: 50px">
+                                    <a style="padding: 10px 0 0 0 !important;" href="#">TR <i class="rt-icon2-chevron-down"></i></a>
+                                    <ul>
+                                        <li><a href="#">EN</a></li>
+                                        <li><a href="#">AR</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
                     </div>
 
                 </div>
