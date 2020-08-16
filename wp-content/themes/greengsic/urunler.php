@@ -145,7 +145,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Sürdürülebilir enerjide dünyanın en verimli kaynaklarını sizin için sunuyoruz.
+                                <p>Sürdürülebilir enerjide dünyanın en verimli kaynaklarını ve altyapısını sizin için sunuyoruz.
                                 </p>
                             </div>
                         </div>
