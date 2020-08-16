@@ -9,32 +9,32 @@
             <!--========= 2nd slide =========-->
             <div class="item active">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/naturabagno-07.jpg" alt="slider 02" /></a>
+                    <a href="www.naturabagno.com"><img src="/wp-content/uploads/2020/08/naturabagno-07.jpg" alt="slider 02" /></a>
                 </div>
             </div>
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/akasya-ogo1111.jpg" alt="slider 04" /></a>
+                    <a href="www.akasyasu.com"><img src="/wp-content/uploads/2020/08/akasya-ogo1111.jpg" alt="slider 04" /></a>
                 </div>
             </div>
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/idealcelikenerji-1.jpg" alt="slider 04" /></a>
+                    <a href="www.idealcelikenerji.com"><img src="/wp-content/uploads/2020/08/idealcelikenerji-1.jpg" alt="slider 04" /></a>
                 </div>
             </div>
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/petra_marble.jpg" alt="slider 04" /></a>
+                    <a href="www.petramarble.com.tr"><img src="/wp-content/uploads/2020/08/petra_marble.jpg" alt="slider 04" /></a>
                 </div>
             </div>
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/state_corps_turkey.jpg" alt="slider 04" /></a>
+                    <a href="www.statecorps.com.tr"><img src="/wp-content/uploads/2020/08/state_corps_turkey.jpg" alt="slider 04" /></a>
                 </div>
             </div>
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/petrayapı_logo-06.jpg" alt="slider 04" /></a>
+                    <a href="http://petrayapi.com/"><img src="/wp-content/uploads/2020/08/petrayapı_logo-06.jpg" alt="slider 04" /></a>
                 </div>
             </div>
 
