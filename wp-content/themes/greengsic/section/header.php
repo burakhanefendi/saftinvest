@@ -126,19 +126,25 @@
                                     <li>
                                         <a href="/tarim">Tarım</a>
                                     </li>
+                                    <li>
+                                        <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
+                                    </li>
 
                                     <li>
                                         <a href="/yatirim-danismanligi">Yatırım Danışmanlığı</a>
                                     </li>
 
                                     <li>
-                                        <a href="/enerji-2">Enerji</a>
+                                        <a href="/enerji-2">Sanayi</a>
                                     </li>
                                     <li>
-                                        <a href="/maden-dogal-tas">Maden - Doğal Taş</a>
+                                        <a href="/maden-dogal-tas">Madencilik</a>
                                     </li>
                                     <li>
-                                        <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
+                                        <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
+                                    </li>
+                                    <li>
+                                        <a href="/hayvancilik-2/">Hayvancılık</a>
                                     </li>
                                     <li>
                                         <a href="/saglik-turizmi">Sağlık Turizmi</a>
@@ -146,18 +152,14 @@
                                     <li>
                                         <a href="/egitim-2">Eğitim</a>
                                     </li>
-                                    <li>
-                                        <a href="/hayvancilik-2/">Hayvancılık</a>
-                                    </li>
+
                                     <li>
                                         <a href="/tekstil">Tekstil</a>
                                     </li>
                                     <li>
                                         <a href="/tesisler">Lojistik Tesisler</a>
                                     </li>
-                                    <li>
-                                        <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
-                                    </li>
+
                                 </ul>
 
                             </li>
