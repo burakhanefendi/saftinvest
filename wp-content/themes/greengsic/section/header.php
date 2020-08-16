@@ -155,6 +155,9 @@
                                     <li>
                                         <a href="/tesisler">Lojistik Tesisler</a>
                                     </li>
+                                    <li>
+                                        <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
+                                    </li>
                                 </ul>
 
                             </li>
