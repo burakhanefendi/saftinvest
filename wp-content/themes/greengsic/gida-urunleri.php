@@ -46,16 +46,6 @@ get_header(); ?>
                     <h4 class="text-uppercase text-center">
                         ŞEKER
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Ham Şeker
-                        </li>
-                        <li>
-                            Beyaz Şeker
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
@@ -67,19 +57,6 @@ get_header(); ?>
                     <h4 class="text-uppercase text-center">
                         SÜT ÜRÜNLERİ
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            AMF
-                        </li>
-                        <li>
-                            Tereyağı
-                        </li>
-                        <li>
-                            Süt Tozu
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
@@ -91,22 +68,6 @@ get_header(); ?>
                     <h4 class="text-uppercase text-center">
                        Yemeklik Yağlar
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Palmiye Yağı
-                        </li>
-                        <li>
-                            Ham Ayçiçek Yağı
-                        </li>
-                        <li>
-                             Mısır Yağı
-                        </li>
-                        <li>
-                            Soya Yağı
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
@@ -120,22 +81,6 @@ get_header(); ?>
                     <h4 class="text-uppercase text-center">
                         Taneler
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Pirinç
-                        </li>
-                        <li>
-                            Buğday
-                        </li>
-                        <li>
-                            Ay Çekirdeği
-                        </li>
-                        <li>
-                            Soya Tohumları
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
@@ -195,13 +140,6 @@ get_header(); ?>
                     <h4 class="text-uppercase text-center">
                         Susam
                     </h4>
-                    <p>
-                    <ul style="text-align: left">
-                        <li>
-                            Sudan
-                        </li>
-                    </ul>
-                    </p>
 
                 </div>
             </div>
