@@ -23,23 +23,7 @@
             <div class="col-md-4 col-sm-6 text-center to_animate" data-animation="fadeInUp">
                 <div class="widget widget_contact topmargin_20">
                     <h3 class="widget-title">İLETİŞİM FORMU</h3>
-                    <form class="contact-form topmargin_45" method="post" action="./">
-                        <p class="form-group">
-                            <label for="footer-name">Adınız <span class="required">*</span></label>
-                            <input type="text" aria-required="true" size="30" value="" name="name" id="footer-name" class="form-control text-center" placeholder="Ad Soyad">
-                        </p>
-                        <p class="form-group">
-                            <label for="footer-email">Email <span class="required">*</span></label>
-                            <input type="email" aria-required="true" size="30" value="" name="email" id="footer-email" class="form-control text-center" placeholder="Email Adres">
-                        </p>
-                        <p class="form-group">
-                            <label for="footer-message">Mesajınız</label>
-                            <textarea aria-required="true" rows="3" cols="45" name="message" id="footer-message" class="form-control text-center" placeholder="Mesajınız"></textarea>
-                        </p>
-                        <p class="footer_contact-form-submit topmargin_40">
-                            <button type="submit" id="footer_contact_form_submit" name="contact_submit" class="theme_button color1">Gönder</button>
-                        </p>
-                    </form>
+                    <?php echo do_shortcode( '[contact-form-7 id="609" title="İletişim formu 1"]' ); ?>
                 </div>
             </div>
 
