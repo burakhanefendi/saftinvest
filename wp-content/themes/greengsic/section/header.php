@@ -153,7 +153,7 @@
                                         <a href="/tekstil">Tekstil</a>
                                     </li>
                                     <li>
-                                        <a href="/lojistik">Lojistic</a>
+                                        <a href="/tesisler">Lojistik Tesisler</a>
                                     </li>
                                 </ul>
 
