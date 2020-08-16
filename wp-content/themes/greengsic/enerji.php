@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Template Name: İnşaat
+ *  Template Name: Enerji
  */
 
 get_header(); ?>
