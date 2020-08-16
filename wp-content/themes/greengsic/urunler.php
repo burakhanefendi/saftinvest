@@ -344,13 +344,13 @@ get_header(); ?>
                         <div class="item-media top_rounded overflow_hidden">
                             <img src="/wp-content/uploads/2020/07/Iojistik.jpg" style="max-height: 140px" alt="">
                             <div class="media-links">
-                                <a href="/lojistik/" class="abs-link"></a>
+                                <a href="/tesisler-2/" class="abs-link"></a>
                             </div>
                         </div>
                         <div class="item-content">
                             <header class="entry-header">
                                 <h5 class="entry-title">
-                                    <a href="/tesisler/">Lojistik Tesisler</a>
+                                    <a href="/tesisler-2/">Lojistik Tesisler</a>
                                 </h5>
                             </header>
                             <div class="entry-content">
@@ -358,7 +358,7 @@ get_header(); ?>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/tesisler">Detaylı Bilgi</a>
+                            <a class="btn btn-default btn-lg" href="/tesisler-2">Detaylı Bilgi</a>
                         </footer>
                     </article>
 
