@@ -45,13 +45,13 @@
 
         <!--======= Left Button =========-->
         <a class="left carousel-control range_slides_carousel_control_left range_adv_left" href="#adv_range_4_columns_carousel" role="button" data-slide="prev">
-            <span class="fas fa-chevron-left range_slides_carousel_control_icons" aria-hidden="true"></span>
+            <i class="rt-icon2-chevron-left"></i>
             <span class="sr-only">Previous</span>
         </a>
 
         <!--======= Right Button =========-->
         <a class="right carousel-control range_slides_carousel_control_right range_adv_right" href="#adv_range_4_columns_carousel" role="button" data-slide="next">
-            <span class="fas fa-chevron-right range_slides_carousel_control_icons" aria-hidden="true"></span>
+            <i class="rt-icon2-chevron-right"></i>
             <span class="sr-only">Next</span>
         </a>
 
