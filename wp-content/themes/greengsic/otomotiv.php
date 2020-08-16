@@ -51,7 +51,7 @@ get_header(); ?>
 
                     <?php
                     $loop = new WP_Query( array(
-                            'post_type' => 'insaat',
+                            'post_type' => 'otomotiv',
                             'posts_per_page' => -1
                         )
                     );
