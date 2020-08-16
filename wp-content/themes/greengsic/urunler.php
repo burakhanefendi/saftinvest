@@ -141,7 +141,7 @@ get_header(); ?>
                         <div class="item-content">
                             <header class="entry-header">
                                 <h5 class="entry-title">
-                                    <a href="/enerji-2/">Enerji</a>
+                                    <a href="/enerji-2/">Sanayi</a>
                                 </h5>
                             </header>
                             <div class="entry-content">
