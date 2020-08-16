@@ -5,14 +5,9 @@
         <div class="carousel-inner range_slides_carousel_inner" role="listbox">
 
             <!--========= 1st slide =========-->
-            <div class="item active">
-                <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/07/akasyasulogo.jpg" alt="slider 01" /></a>
-                </div>
-            </div>
 
             <!--========= 2nd slide =========-->
-            <div class="item">
+            <div class="item active">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
                     <a href="#"><img src="/wp-content/uploads/2020/08/naturabagno-07.jpg" alt="slider 02" /></a>
                 </div>
