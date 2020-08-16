@@ -33,22 +33,22 @@
                 <div class="row">
                     <div class="col-sm-4 text-center text-sm-left">
                         <div class="inline-content darklinks">
-								<span>
+								<span style="color: #ffffff;">
 									<i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-									+90 543 410 80 58
+									0(212) 295 85 98
 								</span>
                             <span class="small-text">
 									<i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i>
-									<a href="#" style="text-transform: lowercase">info@greengsic.com</a>
+									<a style="text-transform: lowercase" href="#">info@saffinvest.com</a>
 								</span>
                         </div>
                     </div>
-                    <div class="col-sm-4 text-center mobile-hidden">
+                    <div class="col-sm-4 text-center">
                         <div>
-                            <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-%C4%B0nvestment-Corporate-Trading-213855193345143/?modal=admin_todo_tour" title="Facebook"></a>
-                            <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
-                            <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
-                            <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/greengsic-group-service-logistics-company-68190a1b3/" title="Lınkedn"></a>
+                            <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/saffinvest/" title="Facebook"></a>
+                            <a class="social-icon color-icon soc-twitter" href="https://twitter.com/SaffInvest" title="Twitter"></a>
+                            <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/saff-invest-b879181b3/" title="Linkedin"></a>
+                            <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/saffinvestt/?hl=tr" title="Instagram"></a>
 
                         </div>
                     </div>
@@ -59,8 +59,8 @@
                                 <li style="height: 50px">
                                     <a style="padding: 10px 0 0 0 !important;" href="#">TR <i class="rt-icon2-chevron-down"></i></a>
                                     <ul>
-                                        <li><a href="https://en.greengsic.com">EN</a></li>
-                                        <li><a href="https://fr.greengsic.com">FR</a></li>
+                                        <li><a href="#">EN</a></li>
+                                        <li><a href="#">AR</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -70,141 +70,129 @@
                 </div>
             </div>
         </section>
-        <header class="page_header header_white toggler_xs_right section_padding_15">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-sm-12 display_table">
-                        <div class="header_left_logo display_table_cell">
-                            <a href="/" class="logo top_logo">
-                                <?php $custom_logo_id = get_theme_mod( 'custom_logo' );
-                                $custom_logo_url = wp_get_attachment_image_url( $custom_logo_id , 'full' );
-                                echo '<img src="' . esc_url( $custom_logo_url ) . '" alt="">'; ?>
-                            </a>
-                        </div>
+<header class="page_header header_white toggler_xs_right section_padding_15">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12 display_table">
+                <div class="header_left_logo display_table_cell">
+                    <a href="/" class="logo top_logo">
+                        <?php $custom_logo_id = get_theme_mod( 'custom_logo' );
+                        $custom_logo_url = wp_get_attachment_image_url( $custom_logo_id , 'full' );
+                        echo '<img src="' . esc_url( $custom_logo_url ) . '" alt="">'; ?>
+                    </a>
+                </div>
 
-                        <div class="header_mainmenu display_table_cell text-center">
-                            <!-- main nav start -->
-                            <nav class="mainmenu_wrapper">
-                                <ul class="mainmenu nav sf-menu">
+                <div class="header_mainmenu display_table_cell text-center">
+                    <!-- main nav start -->
+                    <nav class="mainmenu_wrapper">
+                        <ul class="mainmenu nav sf-menu">
+                            <li>
+                                <a href="/">Anasayfa</a>
+                            </li>
+
+                            <li>
+                                <a href="#">Hakkımızda</a>
+                                <ul>
                                     <li>
-                                        <a href="/">Anasayfa</a>
+                                        <a href="/biz-kimiz">Biz Kimiz</a>
                                     </li>
-
-                                    <li class="submenu">
-                                        <a href="#">Hakkımızda</a>
-                                        <ul>
-                                            <li>
-                                                <a href="/biz-kimiz">Biz Kimiz</a>
-                                            </li>
-                                            <li>
-                                                <a href="/finansal-bilgi">Finansal Bilgi</a>
-                                            </li>
-
-                                            <li>
-                                                <a href="/sistemler-ve-uyeler">Sistemler ve Üyeler</a>
-                                            </li>
-
-                                            <li>
-                                                <a href="/nasil-calisiyoruz">Nasıl Çalışıyoruz</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <!-- eof pages -->
-
-                                    <li class="submenu">
-                                        <a href="#">ÜRÜNLER</a>
-                                        <ul>
-                                            <li>
-                                                <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
-                                            </li>
-                                            <li>
-                                                <a href="/gida">Gıda Ürünleri</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tarim">Tarım</a>
-                                            </li>
-
-                                            <li>
-                                                <a href="/yatirim-danismanligi">Yatırım Danışmanlığı</a>
-                                            </li>
-
-                                            <li>
-                                                <a href="/enerji-2">Enerji</a>
-                                            </li>
-                                            <li>
-                                                <a href="/otomotiv-2">Otomotiv</a>
-                                            </li>
-                                            <li>
-                                                <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
-                                            </li>
-                                            <li>
-                                                <a href="/saglik-turizmi">Sağlık Turizmi</a>
-                                            </li>
-                                            <li>
-                                                <a href="/egitim-2">Eğitim</a>
-                                            </li>
-                                            <li>
-                                                <a href="/turizm-2">Turizm</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tekstil">Tekstil</a>
-                                            </li>
-                                            <li>
-                                                <a href="/lojistik">Lojistik</a>
-                                            </li>
-                                        </ul>
-
-                                    </li>
-                                    <!-- eof features -->
-
-
-                                    <!-- gallery -->
                                     <li>
-                                        <a href="/markalar">Markalar</a>
+                                        <a href="/finansal-bilgi">Finansal Bilgi</a>
                                     </li>
-                                    <!-- eof Gallery -->
 
-                                    <!-- blog -->
                                     <li>
-                                        <a href="/tesisler">TESİSLER</a>
+                                        <a href="/sistemler-ve-uyeler">Sistemler ve Üyeler</a>
                                     </li>
-                                    <!-- eof blog -->
 
-                                    <!-- contacts -->
                                     <li>
-                                        <a href="iletisim">BİZE ULAŞIN</a>
+                                        <a href="/nasil-calisiyoruz">Nasıl Çalışıyoruz</a>
                                     </li>
-                                    <li class="desk-hidden">
-                                        <a href="#">TR</a>
-                                        <ul>
-                                            <li><a href="https://en.greengsic.com">EN</a></li>
-                                            <li><a href="https://fr.greengsic.com">FR</a></li>
-                                        </ul>
+                                    <li>
+                                        <a href="/grup-sirketlerimiz/">Grup Şirketlerimiz</a>
                                     </li>
-                                    <li class="desk-hidden" style="width: 25%; float: left;">
-                                        <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/Greengsic-%C4%B0nvestment-Corporate-Trading-213855193345143/?modal=admin_todo_tour" title="Facebook"></a>
-                                    </li>
-                                    <li class="desk-hidden" style="width: 25%; float: left;">
-                                        <a class="social-icon color-icon soc-twitter" href="https://twitter.com/greengsic" title="Twitter"></a>
-                                    </li>
-                                    <li class="desk-hidden" style="width: 25%; float: left;">
-                                        <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/greengsic/" title="Instagram"></a>
-                                    </li>
-                                    <li class="desk-hidden" style="width: 25%; float: left;">
-                                        <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/greengsic-group-service-logistics-company-68190a1b3/" title="Lınkedn"></a>
-                                    </li>
-
-                                    <!-- eof contacts -->
                                 </ul>
-                            </nav>
+                            </li>
+                            <!-- eof pages -->
 
-                            <!-- eof main nav -->
-                            <!-- header toggler -->
-                            <span class="toggle_menu">
+                            <li>
+                                <a href="#">Ürünler</a>
+                                <ul>
+                                    <li>
+                                        <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
+                                    </li>
+                                    <li>
+                                        <a href="/gida">Gıda Ürünleri</a>
+                                    </li>
+                                    <li>
+                                        <a href="/tarim">Tarım</a>
+                                    </li>
+                                    <li>
+                                        <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="/yatirim-danismanligi">Yatırım Danışmanlığı</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="/enerji-2">Sanayi</a>
+                                    </li>
+                                    <li>
+                                        <a href="/maden-dogal-tas">Madencilik</a>
+                                    </li>
+                                    <li>
+                                        <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
+                                    </li>
+                                    <li>
+                                        <a href="/hayvancilik-2/">Hayvancılık</a>
+                                    </li>
+                                    <li>
+                                        <a href="/saglik-turizmi">Sağlık Turizmi</a>
+                                    </li>
+                                    <li>
+                                        <a href="/egitim-2">Eğitim</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="/tekstil">Tekstil</a>
+                                    </li>
+                                    <li>
+                                        <a href="/tesisler">Lojistik Tesisler</a>
+                                    </li>
+
+                                </ul>
+
+                            </li>
+                            <!-- eof features -->
+
+
+                            <!-- gallery -->
+                            <li>
+                                <a href="/markalar">Markalar</a>
+                            </li>
+                            <!-- eof Gallery -->
+
+                            <!-- blog -->
+                            <li>
+                                <a href="/tesisler-2/">Tesisler</a>
+                            </li>
+                            <!-- eof blog -->
+
+                            <!-- contacts -->
+                            <li>
+                                <a href="/iletisim">Bize Ulaşın</a>
+                            </li>
+                            <!-- eof contacts -->
+                        </ul>
+                    </nav>
+                    <!-- eof main nav -->
+                    <!-- header toggler -->
+                    <span class="toggle_menu">
 									<span></span>
 								</span>
-                        </div>
-                    </div>
                 </div>
             </div>
-        </header>
+        </div>
+    </div>
+</header>
+
