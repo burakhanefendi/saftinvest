@@ -272,7 +272,7 @@ get_header(); ?>
                         <div class="item-content">
                             <header class="entry-header">
                                 <h5 class="entry-title">
-                                    <a href="/maden-dogal-tas/">Doğal Taş</a>
+                                    <a href="/maden-dogal-tas/">Madencilik</a>
                                 </h5>
                             </header>
                             <div class="entry-content">
@@ -332,6 +332,31 @@ get_header(); ?>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
                             <a class="btn btn-default btn-lg" href="/tesisler-2">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/Iojistik.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/mobilya-ve-aksesuar/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Dünyanın her noktasına, kara, hava ve deniz lojistik hizmet ve noktalarımızla hizmetinizdeyiz.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/mobilya-ve-aksesuar">Detaylı Bilgi</a>
                         </footer>
                     </article>
 

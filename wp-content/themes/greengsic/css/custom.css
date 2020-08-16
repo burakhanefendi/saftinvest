@@ -72,3 +72,6 @@
 .parallax {
     background-attachment: unset;
 }
+.sf-menu ul a {
+    text-transform: capitalize !important;
+}
