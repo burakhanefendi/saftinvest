@@ -41,6 +41,9 @@ get_header(); ?>
         </div>
     </div>
     <?php endif; ?>
+</section>
+<section class="ls page_portfolio section section_padding_bottom_10 columns_padding_25 columns_margin_bottom_30">
+
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -80,8 +83,9 @@ get_header(); ?>
 
         </div>
     </div>
-
 </section>
+
+
 
 
 <?php get_footer() ?>
