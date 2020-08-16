@@ -11,10 +11,11 @@
                         Saff İnvest 2004 yılında İstanbul’da kurulan bir dış ticaret şirketiyiz ve genel olarak ithalat - ihracat ile uğraşmaktayız ve merkezimiz İstanbul’dadır. Piyasadan gelen talepler ve doğan yeni fırsatlar neticesinde Gayrimenkul, Sanayi, Endüstriyel, Hayvancılık, Sağlık, Enerji, yumuşak ve gıda ürünleri konusunda malzemeler tedarik ve üreten uzmanlaşmış küresel ticaret yapan bir şirkettir.                    </p>
 
                     <div class="topmargin_30">
-                        <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
-                        <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
-                        <a class="social-icon color-icon soc-linkedin" href="#" title="Linkedin"></a>
-                        <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
+                        <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/saffinvest/" title="Facebook"></a>
+                        <a class="social-icon color-icon soc-twitter" href="https://twitter.com/SaffInvest" title="Twitter"></a>
+                        <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/saff-invest-b879181b3/" title="Linkedin"></a>
+                        <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/saffinvestt/?hl=tr" title="Instagram"></a>
+
                     </div>
                 </div>
             </div>
