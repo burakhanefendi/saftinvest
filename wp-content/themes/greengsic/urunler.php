@@ -341,7 +341,7 @@ get_header(); ?>
 
                     <article class="vertical-item content-padding text-center with_border rounded">
                         <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/Iojistik.jpg" style="max-height: 140px" alt="">
+                            <img src="/wp-content/uploads/2020/07/depo.jpg" style="max-height: 140px" alt="">
                             <div class="media-links">
                                 <a href="/tesisler-2/" class="abs-link"></a>
                             </div>
@@ -353,7 +353,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Dünyanın her noktasına, kara, hava ve deniz lojistik hizmet ve noktalarımızla hizmetinizdeyiz.</p>
+                                <p>Dünyanın her noktasına, kara, hava ve deniz lojistik hizmet ve çözümlerimizle hizmetinizdeyiz.</p>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
