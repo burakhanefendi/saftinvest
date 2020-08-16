@@ -30,9 +30,16 @@
 
                                         <!-- .entry-meta -->
 
-                                        <p>2004 yılında İstanbul’da kurulan Saff İnvest Holding, Gayrimenkul, Sanayi, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.</p>
+                                        <p>Saff İnvest 2004 yılında İstanbul’da kurulan bir dış ticaret şirketiyiz ve genel
+                                            olarak ithalat - ihracat ile uğraşmaktayız ve merkezimiz İstanbul’dadır.
+                                            Piyasadan gelen talepler ve doğan yeni fırsatlar neticesinde Gayrimenkul,
+                                            Sanayi, Endüstriyel, Hayvancılık, Sağlık, Enerji, yumuşak ve gıda ürünleri
+                                            konusunda malzemeler tedarik ve üreten uzmanlaşmış küresel ticaret yapan
+                                            bir şirkettir.</p>
                                         <p>
-                                            Saff İnvest Holding, merkezi İstanbul’dadır. Tarım, Bakliyat, Yağlı Tohumlar ve Yemeklik Yağlar, Dondurulmuş Kümes Hayvanları, Büyük Baş Hayvanları ve Etler, Süt Ürünleri, Hayvan Yemi Hammaddeleri, Baharatlar, Kuru Meyveler ve Gayrimenkul - Sanayi sektöründe köklü bir geçmişe sahiptir.
+                                            Grubun geçmişi 1972 yıllarına dayanmaktadır. Türkiye ve dünya genelinde
+                                            1.000’lerce konut projesine imza atmış sektöründe öncü ve köklü bir geçmişe
+                                            sahiptir.
                                         </p>
                                         <p><a href="/biz-kimiz/">Detaylı Bilgi</a></p>
                                     </div>
@@ -64,7 +71,14 @@
                                         <!-- .entry-meta -->
 
                                         <p>
-                                            Saff İnvest Holding olarak toplu vizede yumuşak emtialar üretiyoruz. Şeker, Pirinç, Buğday, Soya ve Gıda Ürünleri, Sıvı ve Katı Yağlar, Süt ürünleri, hayvancılık, et, üreticilerden Distribütörlere ve Perakendecilere kadar müşterileri kapsayan gıda endüstrilerine tedarik sağlıyoruz. Saff İnvest Holding Gayrimenkul ve Sanayi söktöründe köklü bir geçmişe sahiptir ve müşterilerine ürün yelpazesini her geçen gün genişleterek, kendilerini özel olduklarını hissettirmektedir.                                        </p>
+                                            Saff İnvest, gayrimenkul, sanayi, endüstriyel, enerji, maden-mermer, tekstil,
+                                            sağlık turizmi, eğitim, turizm, hayvancılık, yumuşak emtia ve gıda söktöründe
+                                            köklü bir geçmişe sahiptir ve ürün yelpazesini her geçen gün genişleterek
+                                            müşterilerine çeşitli tedarikler sağlayarak kendilerini özel olduklarını
+                                            hissettirmektedir. Saff İnvest iş geliştirme alanlarında ve piyasadaki en kaliteli
+                                            ürün ve hizmetleri sunan, insanların güven ve beklentilerini karşılamaya hedef
+                                            haline getirmiştir ve teknolojik yenilikleri hızla benimser, kendi know-how
+                                            işimizi geliştirir ve sunarız.                                        </p>
                                         <p>
                                             <a href="/urunlere-genel-bakis/" rel="bookmark">Detaylı Bilgi</a>
                                         </p>
