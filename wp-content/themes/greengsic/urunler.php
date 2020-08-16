@@ -328,7 +328,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Geniş ürün gamı ve ürün yelpazesiyle tekstilde birçok noktada sizin yanınızdayız.</p>
+                                <p>Geniş ürün gamı ve ürün yelpazesiyle tekstilde birçok noktada çözüm sunuyoruz.</p>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
