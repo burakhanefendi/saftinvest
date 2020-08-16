@@ -87,7 +87,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <img src="/wp-content/uploads/2020/07/cay-2.jpg">
+                        <img src="/wp-content/uploads/2020/08/cay_yeni.jpg">
                     </div>
                     <h4 class="text-uppercase text-center">
                         Çay (Çay Yaprakları ve Poşetleri)
