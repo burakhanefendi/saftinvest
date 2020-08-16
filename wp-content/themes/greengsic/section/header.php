@@ -124,9 +124,6 @@
                                         <a href="/gida">Gıda Ürünleri</a>
                                     </li>
                                     <li>
-                                        <a href="/diger-gida-urunleri/">Diğer Gıda Ürünler</a>
-                                    </li>
-                                    <li>
                                         <a href="/tarim">Tarım</a>
                                     </li>
 
