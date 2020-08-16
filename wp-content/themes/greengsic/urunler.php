@@ -119,7 +119,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik<br> çözüm ve imkan.
+                                <p>İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik<br> çözüm ve imkan sunuyoruz.
                                 </p>
                             </div>
                         </div>
