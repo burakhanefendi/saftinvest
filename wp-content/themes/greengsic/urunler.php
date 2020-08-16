@@ -350,7 +350,7 @@ get_header(); ?>
                         <div class="item-content">
                             <header class="entry-header">
                                 <h5 class="entry-title">
-                                    <a href="/lojistik/">Lojistik Tesisler</a>
+                                    <a href="/tesisler/">Lojistik Tesisler</a>
                                 </h5>
                             </header>
                             <div class="entry-content">
@@ -358,7 +358,7 @@ get_header(); ?>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/lojistik/">Detaylı Bilgi</a>
+                            <a class="btn btn-default btn-lg" href="/tesisler">Detaylı Bilgi</a>
                         </footer>
                     </article>
 
