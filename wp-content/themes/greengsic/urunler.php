@@ -300,7 +300,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Eğitim konusunda, yurt dışı öğrenci değişimleri ve vize işlemlerinizde çözüm sunuyoruz.</p>
+                                <p>Eğitim konusunda, yurtiçi ve yurt dışı öğrenci değişimleri ve vize işlemlerinize çözüm sunuyoruz</p>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
