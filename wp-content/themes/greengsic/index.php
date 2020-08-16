@@ -50,7 +50,7 @@
 
                                 <div class="col-md-6 col-md-push-6">
                                     <div class="item-media entry-thumbnail top_rounded overflow_hidden">
-                                        <img src="http://saffinvest.com/wp-content/uploads/2020/08/saffinvest_anasayfa.jpg" alt="">
+                                        <img style="width: 60% !important;" src="http://saffinvest.com/wp-content/uploads/2020/08/saffinvest_anasayfa.jpg" alt="">
                                     </div>
                                 </div>
 
