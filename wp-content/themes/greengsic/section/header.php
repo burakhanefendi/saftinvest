@@ -47,9 +47,8 @@
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
-                            <a class="social-icon color-icon soc-youtube" href="#" title="Youtube"></a>
-                            <a class="social-icon color-icon soc-linkedin" href="#" title="Youtube"></a>
-                            <a class="social-icon color-icon soc-instagraö" href="#" title="Youtube"></a>
+                            <a class="social-icon color-icon soc-linkedin" href="#" title="Linkedin"></a>
+                            <a class="social-icon color-icon soc-instagram" href="#" title="Instagram"></a>
 
                         </div>
                     </div>
