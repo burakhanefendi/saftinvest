@@ -195,8 +195,4 @@
         </div>
     </div>
 </header>
-        <script>
-            $(function(){
-                $('.selectpicker').selectpicker();
-            });
-            </script>
+
