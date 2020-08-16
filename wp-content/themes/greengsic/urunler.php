@@ -107,6 +107,32 @@ get_header(); ?>
 
                     <article class="vertical-item content-padding text-center with_border rounded">
                         <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/VOdSmNdjuj.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/insaat-altyapi/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/insaat-altyapi/">İnşaat Üst ve Altyapı</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik<br> çözüm ve imkan.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/insaat-altyapi/">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
                             <img src="/wp-content/uploads/2020/07/yatirim-danismanligi-1.jpg" style="max-height: 140px" alt="">
                             <div class="media-links">
                                 <a href="/yatirim-danismanligi/" class="abs-link"></a>
@@ -155,6 +181,56 @@ get_header(); ?>
                     </article>
 
                 </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/O1CN01R2q0TW24GImhHv1Hb_6000000007363-0-tbvideo.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/maden-dogal-tas/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/maden-dogal-tas/">Madencilik</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Tarihin güzelliklerini doğal taşlar üzerinde şekillendirerek, dünya pazarına sunuyoruz.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/maden-dogal-tas/">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/08/mobiya_aksesuar.png" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/mobilya-ve-aksesuar/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Natura Bagno, yenilikçi, ergonomik tasarımlarla ve size özel modern çizgisiyle karşınızda.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/mobilya-ve-aksesuar">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
 
                 <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
 
@@ -182,32 +258,6 @@ get_header(); ?>
 
                 </div>
 
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                    <article class="vertical-item content-padding text-center with_border rounded">
-                        <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/VOdSmNdjuj.jpg" style="max-height: 140px" alt="">
-                            <div class="media-links">
-                                <a href="/insaat-altyapi/" class="abs-link"></a>
-                            </div>
-                        </div>
-                        <div class="item-content">
-                            <header class="entry-header">
-                                <h5 class="entry-title">
-                                    <a href="/insaat-altyapi/">İnşaat Üst ve Altyapı</a>
-                                </h5>
-                            </header>
-                            <div class="entry-content">
-                                <p>İnşaat Üstyapı ve Altyapı hizmetlerinde ekonomik<br> çözüm ve imkan.
-                                </p>
-                            </div>
-                        </div>
-                        <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/insaat-altyapi/">Detaylı Bilgi</a>
-                        </footer>
-                    </article>
-
-                </div>
                 <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
 
                     <article class="vertical-item content-padding text-center with_border rounded">
@@ -260,31 +310,7 @@ get_header(); ?>
 
                 </div>
 
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
 
-                    <article class="vertical-item content-padding text-center with_border rounded">
-                        <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/O1CN01R2q0TW24GImhHv1Hb_6000000007363-0-tbvideo.jpg" style="max-height: 140px" alt="">
-                            <div class="media-links">
-                                <a href="/maden-dogal-tas/" class="abs-link"></a>
-                            </div>
-                        </div>
-                        <div class="item-content">
-                            <header class="entry-header">
-                                <h5 class="entry-title">
-                                    <a href="/maden-dogal-tas/">Madencilik</a>
-                                </h5>
-                            </header>
-                            <div class="entry-content">
-                                <p>Tarihin güzelliklerini doğal taşlar üzerinde şekillendirerek, dünya pazarına sunuyoruz.</p>
-                            </div>
-                        </div>
-                        <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/maden-dogal-tas/">Detaylı Bilgi</a>
-                        </footer>
-                    </article>
-
-                </div>
 
                 <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
 
@@ -336,31 +362,7 @@ get_header(); ?>
                     </article>
 
                 </div>
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
 
-                    <article class="vertical-item content-padding text-center with_border rounded">
-                        <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/08/mobiya_aksesuar.png" style="max-height: 140px" alt="">
-                            <div class="media-links">
-                                <a href="/mobilya-ve-aksesuar/" class="abs-link"></a>
-                            </div>
-                        </div>
-                        <div class="item-content">
-                            <header class="entry-header">
-                                <h5 class="entry-title">
-                                    <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
-                                </h5>
-                            </header>
-                            <div class="entry-content">
-                                <p>Natura Bagno, yenilikçi, ergonomik tasarımlarla ve size özel modern çizgisiyle karşınızda.</p>
-                            </div>
-                        </div>
-                        <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/mobilya-ve-aksesuar">Detaylı Bilgi</a>
-                        </footer>
-                    </article>
-
-                </div>
 
             </div>
             <?php include('section/brand.php') ?>
