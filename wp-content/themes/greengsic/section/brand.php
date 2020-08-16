@@ -18,13 +18,6 @@
                 </div>
             </div>
 
-            <!--========= 3rd slide =========-->
-            <div class="item">
-                <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/07/idealtekniklogo.jpg" alt="slider 03" /></a>
-                </div>
-            </div>
-
             <!--========= 4th slide =========-->
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
@@ -35,9 +28,20 @@
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
                     <a href="#"><img src="/wp-content/uploads/2020/08/akasyasu.jpg" alt="slider 04" /></a>
                 </div>
-            </div><div class="item">
+            </div>
+            <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
                     <a href="#"><img src="/wp-content/uploads/2020/08/idealcelikenerji-1.jpg" alt="slider 04" /></a>
+                </div>
+            </div>
+            <div class="item">
+                <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
+                    <a href="#"><img src="/wp-content/uploads/2020/08/petra_marble.jpg" alt="slider 04" /></a>
+                </div>
+            </div>
+            <div class="item">
+                <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
+                    <a href="#"><img src="/wp-content/uploads/2020/08/state_corps_turkey.jpg" alt="slider 04" /></a>
                 </div>
             </div>
 
