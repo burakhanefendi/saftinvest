@@ -352,7 +352,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Dünyanın her noktasına, kara, hava ve deniz lojistik hizmet ve noktalarımızla hizmetinizdeyiz.</p>
+                                <p>Natura Bagno, yenilikçi, ergonomik tasarımlarla ve size özel modern çizgisiyle karşınızda.</p>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
