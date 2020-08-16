@@ -274,7 +274,7 @@ get_header(); ?>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Dünyanın en gelişmiş, sağlık alanındaki tüm olanakarı sizin için buluyoruz
+                                <p>Dünyanın en gelişmiş sağlık alanındaki imkan ve çözümleri sizin için buluyoruz.
                                 </p>
                             </div>
                         </div>
