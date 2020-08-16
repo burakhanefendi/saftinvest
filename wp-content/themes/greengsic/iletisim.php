@@ -18,56 +18,7 @@ get_header(); ?>
 
                 <h3 class="text-capitalize">İletişim Formu</h3>
 
-                <form class="contact-form row columns_padding_10" method="post" action="./">
-                    <div class="col-sm-6">
-                        <div class="contact-form-name">
-                            <label for="name">Full Name
-                                <span class="required">*</span>
-                            </label>
-                            <input type="text" aria-required="true" size="30" value="" name="name" id="name" class="form-control" placeholder="Name">
-                        </div>
-                    </div>
-                    <div class="col-sm-6">
-                        <div class="contact-form-subject">
-                            <label for="subject">Subject
-                                <span class="required">*</span>
-                            </label>
-                            <input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Subject">
-                        </div>
-                    </div>
-                    <div class="col-sm-6">
-                        <div class="contact-form-phone">
-                            <label for="phone">Phone
-                                <span class="required">*</span>
-                            </label>
-                            <input type="text" aria-required="true" size="30" value="" name="phone" id="phone" class="form-control" placeholder="Phone Number">
-                        </div>
-                    </div>
-                    <div class="col-sm-6">
-                        <div class="contact-form-email">
-                            <label for="email">Email address
-                                <span class="required">*</span>
-                            </label>
-                            <input type="email" aria-required="true" size="30" value="" name="email" id="email" class="form-control" placeholder="Email Address">
-                        </div>
-                    </div>
-                    <div class="col-sm-12">
-
-                        <div class="contact-form-message">
-                            <label for="message">Message</label>
-                            <textarea aria-required="true" rows="5" cols="45" name="message" id="message" class="form-control" placeholder="Message..."></textarea>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-12">
-
-                        <div class="contact-form-submit topmargin_10">
-                            <button type="submit" id="contact_form_submit" name="contact_submit" class="theme_button color1 wide_button">Send Message</button>
-                        </div>
-                    </div>
-
-
-                </form>
+                <?php echo do_shortcode( '[contact-form-7 id="609" title="İletişim formu 1"]' ); ?>
             </div>
             <!--.col-* -->
 
