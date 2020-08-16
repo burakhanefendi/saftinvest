@@ -89,7 +89,7 @@ get_header(); ?>
             <div class="col-md-4">
                 <div class="teaser with_border text-center">
                     <div class="teaser_icon highlight size_small">
-                        <i class="fa fa-thumbs-o-up"  style="font-size: 60px"></i>
+                        <i class="rt-icon2-group"  style="font-size: 60px"></i>
                     </div>
                     <h4 class="text-uppercase text-center">
                         Kuvvet
