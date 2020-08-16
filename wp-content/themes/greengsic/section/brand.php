@@ -19,7 +19,7 @@
             </div>
             <div class="item">
                 <div class="col-xs-12 col-sm-6 col-md-3 range_slides_item_image">
-                    <a href="#"><img src="/wp-content/uploads/2020/08/akasyasu.jpg" alt="slider 04" /></a>
+                    <a href="#"><img src="/wp-content/uploads/2020/08/akasya-su_logo.jpg" alt="slider 04" /></a>
                 </div>
             </div>
             <div class="item">
