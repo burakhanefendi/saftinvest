@@ -8,7 +8,7 @@
                         <img src="/wp-content/uploads/2020/07/saffinvest_Iogo-disi.png">
                     </a>
                     <p>
-                        2004 yılında İstanbul’da kurulan Saff İnvest Holding, Gayrimenkul, Sanayi, yumuşak ürünler ve gıda ürünleri konusunda uzmanlaşmıştır.                    </p>
+                        Saff İnvest 2004 yılında İstanbul’da kurulan bir dış ticaret şirketiyiz ve genel olarak ithalat - ihracat ile uğraşmaktayız ve merkezimiz İstanbul’dadır. Piyasadan gelen talepler ve doğan yeni fırsatlar neticesinde Gayrimenkul, Sanayi, Endüstriyel, Hayvancılık, Sağlık, Enerji, yumuşak ve gıda ürünleri konusunda malzemeler tedarik ve üreten uzmanlaşmış küresel ticaret yapan bir şirkettir.                    </p>
 
                     <div class="topmargin_30">
                         <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
