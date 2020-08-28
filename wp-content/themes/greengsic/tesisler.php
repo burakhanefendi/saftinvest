@@ -57,10 +57,6 @@
                 <h4 class="text-uppercase text-center">
                     KALİTE KONTROL HİZMETLERİ
                 </h4>
-                <p>
-                    Ülkeden Ülkeye malların kalitesini ve miktarını kontrol etme
-
-                </p>
 
             </div>
         </div>
@@ -72,9 +68,6 @@
                 <h4 class="text-uppercase text-center">
                     TOPLU GEMİ VE KONTEYNER TAŞIMA
                 </h4>
-                <p>
-                    Sevk ülkesinden boşaltım ülkesine dökme gemiler ve konteynırların düzenlenmesi
-                </p>
 
 
             </div>
@@ -87,9 +80,7 @@
                 <h4 class="text-uppercase text-center">
                     BOŞALTMA İŞLEMLERİ
                 </h4>
-                <p>
-                    Malların deşarjının izlenmesi ve kolaylaştırılması
-                </p>
+
 
 
             </div>
