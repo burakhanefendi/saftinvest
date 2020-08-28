@@ -55,7 +55,7 @@
                     <img src="/wp-content/uploads/2020/08/lojistik-muhayene-hizmetleri.jpg">
                 </div>
                 <h4 class="text-uppercase text-center">
-                    KALİTE KONTROL HİZMETLERİ
+                    KALİTE KONTROL İŞLEMLERİ
                 </h4>
 
             </div>
