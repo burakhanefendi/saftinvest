@@ -155,7 +155,7 @@
                                         <a href="/markalar">Markalar</a>
                                     </li>
                                     <li>
-                                        <a href="/tesisler">Lojistik Tesisler</a>
+                                        <a href="/tesisler-2">Lojistik Tesisler</a>
                                     </li>
 
                                 </ul>
@@ -169,7 +169,7 @@
                                 <a href="/grup-sirketlerimiz/">Grup Şirketlerimiz</a>
                                 <ul>
                                     <li>
-                                        <a href="https://petrayapi.com">Petra Yapı</a>
+                                        <a href="http://petrayapi.com">Petra Yapı</a>
                                     </li>
                                     <li>
                                         <a href="http://www.statecorps.com.tr/">State Corps Turkey</a>
