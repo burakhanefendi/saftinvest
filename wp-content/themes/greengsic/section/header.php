@@ -167,6 +167,26 @@
                             <!-- gallery -->
                             <li>
                                 <a href="/grup-sirketlerimiz/">Grup Şirketlerimiz</a>
+                                <ul>
+                                    <li>
+                                        <a href="https://petrayapi.com">Petra Yapı</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.statecorps.com.tr/">State Corps Turkey</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.idealcelikenerji.com/">İdel Teknik A.Ş</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://petramarble.com.tr/">Petra Mermer</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.naturabagno.com/">Natura Bagno</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.akasyasu.com/">Akasya Su</a>
+                                    </li>
+                                </ul>
                             </li>
                             <!-- eof Gallery -->
 
