@@ -3,6 +3,7 @@
 <?=get_header(); ?>
 
         <?php include('section/slider2.php') ?>
+<?php include('section/brand.php') ?>
 
 
         <section class="ls section_padding_top_30 section_padding_bottom_150">
@@ -96,5 +97,5 @@
         </section>
 
 <?php include('section/world.php') ?>
-<?php include('section/brand.php') ?>
+
      <?=get_footer(); ?>
