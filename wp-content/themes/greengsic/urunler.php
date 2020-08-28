@@ -316,7 +316,7 @@ get_header(); ?>
 
                     <article class="vertical-item content-padding text-center with_border rounded">
                         <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/gida-slider-1.jpg" style="max-height: 140px" alt="">
+                            <img src="/wp-content/uploads/2020/07/gida-slider-1.jpg" style="min-height: 140px" alt="">
                             <div class="media-links">
                                 <a href="/markalar" class="abs-link"></a>
                             </div>
