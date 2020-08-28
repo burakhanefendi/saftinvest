@@ -55,10 +55,10 @@
                     <img src="/wp-content/uploads/2020/08/lojistik-muhayene-hizmetleri.jpg">
                 </div>
                 <h4 class="text-uppercase text-center">
-                    MUAYENE HİZMETLERİ
+                    KALİTE KONTROL HİZMETLERİ
                 </h4>
                 <p>
-                    Menşei ülkeden varış ülkesine malların kalitesini ve miktarını kontrol etme
+                    Ülkeden Ülkeye malların kalitesini ve miktarını kontrol etme
 
                 </p>
 
