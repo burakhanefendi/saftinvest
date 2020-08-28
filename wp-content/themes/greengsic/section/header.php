@@ -115,11 +115,12 @@
                                 <a href="#">Faaliyet Alanları</a>
                                 <ul>
                                     <li>
-                                        <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
-                                    </li>
-                                    <li>
                                         <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
                                     </li>
+                                    <li>
+                                        <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
+                                    </li>
+
 
                                     <li>
                                         <a href="/yatirim-danismanligi">Yatırım Danışmanlığı</a>

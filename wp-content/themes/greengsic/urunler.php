@@ -51,58 +51,6 @@ get_header(); ?>
 
             <div class="isotope_container isotope row masonry-layout columns_margin_bottom_20" style="position: relative; height: 1652.11px;">
 
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
-
-                    <article class="vertical-item content-padding text-center with_border rounded">
-                        <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
-                            <div class="media-links">
-                                <a href="/gida" class="abs-link"></a>
-                            </div>
-                        </div>
-                        <div class="item-content">
-                            <header class="entry-header">
-                                <h5 class="entry-title">
-                                    <a href="/gida">Gıda Ürünleri</a>
-                                </h5>
-                            </header>
-                            <div class="entry-content">
-                                <p>Dünyanın dört bir yanından satın alınan geniş kaliteli ürün yelpazemizden birini seçin.</p>
-                            </div>
-                        </div>
-                        <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/gida">Detaylı Bilgi</a>
-                        </footer>
-                    </article>
-
-                </div>
-
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
-
-                    <article class="vertical-item content-padding text-center with_border rounded">
-                        <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/tarım.jpg" style="max-height: 140px" alt="">
-                            <div class="media-links">
-                                <a href="/tarim/" class="abs-link"></a>
-                            </div>
-                        </div>
-                        <div class="item-content">
-                            <header class="entry-header">
-                                <h5 class="entry-title">
-                                    <a href="/tarim/">Tarım</a>
-                                </h5>
-                            </header>
-                            <div class="entry-content">
-                                <p>Verimli topraklardan, kalitesinden ödün mermeden tedarik ediyoruz.
-                                </p>
-                            </div>
-                        </div>
-                        <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/tarim/">Detaylı Bilgi</a>
-                        </footer>
-                    </article>
-
-                </div>
                 <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
 
                     <article class="vertical-item content-padding text-center with_border rounded">
@@ -232,31 +180,7 @@ get_header(); ?>
 
                 </div>
 
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
 
-                    <article class="vertical-item content-padding text-center with_border rounded">
-                        <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/hayvncilik2-1.jpg" style="max-height: 140px" alt="">
-                            <div class="media-links">
-                                <a href="/hayvancilik-2/" class="abs-link"></a>
-                            </div>
-                        </div>
-                        <div class="item-content">
-                            <header class="entry-header">
-                                <h5 class="entry-title">
-                                    <a href="/hayvancilik-2/">Hayvancılık</a>
-                                </h5>
-                            </header>
-                            <div class="entry-content">
-                                <p>Çiftlik hayvanları, canlı hayvan ithalat ve ihracatını birçok ülkeye gerçekleştirmekteyiz</p>
-                            </div>
-                        </div>
-                        <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/hayvancilik-2/">Detaylı Bilgi</a>
-                        </footer>
-                    </article>
-
-                </div>
 
                 <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
 
@@ -280,6 +204,31 @@ get_header(); ?>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
                             <a class="btn btn-default btn-lg" href="/saglik-turizmi/">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 33.3333%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/hayvncilik2-1.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/hayvancilik-2/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/hayvancilik-2/">Hayvancılık</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Çiftlik hayvanları, canlı hayvan ithalat ve ihracatını birçok ülkeye gerçekleştirmekteyiz</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/hayvancilik-2/">Detaylı Bilgi</a>
                         </footer>
                     </article>
 
@@ -310,29 +259,80 @@ get_header(); ?>
 
                 </div>
 
-
-
-                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 0%; top: 0px;">
 
                     <article class="vertical-item content-padding text-center with_border rounded">
                         <div class="item-media top_rounded overflow_hidden">
-                            <img src="/wp-content/uploads/2020/07/tekstiIe.jpg" style="max-height: 140px" alt="">
+                            <img src="/wp-content/uploads/2020/07/istockphoto-172402388-612x612.jpg" style="max-height: 140px" alt="">
                             <div class="media-links">
-                                <a href="/tekstil/" class="abs-link"></a>
+                                <a href="/gida" class="abs-link"></a>
                             </div>
                         </div>
                         <div class="item-content">
                             <header class="entry-header">
                                 <h5 class="entry-title">
-                                    <a href="/tekstil/">Tekstil</a>
+                                    <a href="/gida">Gıda Ürünleri</a>
                                 </h5>
                             </header>
                             <div class="entry-content">
-                                <p>Geniş ürün gamı ve ürün yelpazesiyle tekstilde birçok noktada çözüm sunuyoruz.</p>
+                                <p>Dünyanın dört bir yanından satın alınan geniş kaliteli ürün yelpazemizden birini seçin.</p>
                             </div>
                         </div>
                         <footer class="entry-meta with_top_border darklinks">
-                            <a class="btn btn-default btn-lg" href="/tekstil/">Detaylı Bilgi</a>
+                            <a class="btn btn-default btn-lg" href="/gida">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/tarım.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/tarim/" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/tarim/">Tarım</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Verimli topraklardan, kalitesinden ödün mermeden tedarik ediyoruz.
+                                </p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/tarim/">Detaylı Bilgi</a>
+                        </footer>
+                    </article>
+
+                </div>
+
+                <div class="isotope-item col-lg-3 col-md-6 col-sm-12" style="position: absolute; left: 66.6667%; top: 0px;">
+
+                    <article class="vertical-item content-padding text-center with_border rounded">
+                        <div class="item-media top_rounded overflow_hidden">
+                            <img src="/wp-content/uploads/2020/07/gida-slider-1.jpg" style="max-height: 140px" alt="">
+                            <div class="media-links">
+                                <a href="/markalar" class="abs-link"></a>
+                            </div>
+                        </div>
+                        <div class="item-content">
+                            <header class="entry-header">
+                                <h5 class="entry-title">
+                                    <a href="/markalar">Markalar</a>
+                                </h5>
+                            </header>
+                            <div class="entry-content">
+                                <p>Geniş ürün gamı ve ürün yelpazesiyle birçok noktada çözüm sunuyoruz.</p>
+                            </div>
+                        </div>
+                        <footer class="entry-meta with_top_border darklinks">
+                            <a class="btn btn-default btn-lg" href="/markalar">Detaylı Bilgi</a>
                         </footer>
                     </article>
 
