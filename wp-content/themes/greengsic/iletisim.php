@@ -46,6 +46,9 @@ get_header(); ?>
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Unit 30176, PO Box 92, Cardiff, CF11 1NB, United Kingdom
                 </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
+                </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
                 </p>
@@ -57,6 +60,9 @@ get_header(); ?>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 2301, Jumeriah Business Center 2, Cluster V, JLT, Dubai-U.A.E.
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
                 </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
@@ -70,6 +76,9 @@ get_header(); ?>
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> FSM Mah. Poligon Cd. Buyaka 2 Sitesi, No:8C Kule-3, Kat:20 Daire: 114, Ümraniye, İstanbul- Turkey
                 </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
+                </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
                 </p>
@@ -81,6 +90,9 @@ get_header(); ?>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Office No:14, Building 358, Way 5003, Ghala, Muscat-Oman
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
                 </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
@@ -95,6 +107,9 @@ get_header(); ?>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Behind Suriya High School,
                     Kart- e Char, Kabul-Afghanistan
                 </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
+                </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
                 </p>
@@ -107,6 +122,9 @@ get_header(); ?>
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 6412 Brandon Ave #341 Springfield, VA 22150 USA
 
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
                 </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
