@@ -26,7 +26,7 @@ get_header(); ?>
         <div class="col-md-8">
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST TURKEY</h3>
+                <h5 class="text-capitalize">SAFF INVEST TURKEY</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> FSM Mah. Poligon Cd. Buyaka 2 Sitesi, No:8C Kule-3, Kat:20 Daire: 114, Ümraniye, İstanbul- Turkey
@@ -41,7 +41,7 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST ENGLAND</h3>
+                <h5 class="text-capitalize">SAFF INVEST ENGLAND</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Unit 30176, PO Box 92, Cardiff, CF11 1NB, United Kingdom
@@ -56,7 +56,7 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST DUBAI</h3>
+                <h5 class="text-capitalize">SAFF INVEST DUBAI</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 2301, Jumeriah Business Center 2, Cluster V, JLT, Dubai-U.A.E.
@@ -71,7 +71,7 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST KSA</h3>
+                <h5 class="text-capitalize">SAFF INVEST KSA</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> FSM Mah. Poligon Cd. Buyaka 2 Sitesi, No:8C Kule-3, Kat:20 Daire: 114, Ümraniye, İstanbul- Turkey
@@ -86,7 +86,7 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST OMAN</h3>
+                <h5 class="text-capitalize">SAFF INVEST OMAN</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Office No:14, Building 358, Way 5003, Ghala, Muscat-Oman
@@ -101,7 +101,7 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST AFGHANISTAN</h3>
+                <h5 class="text-capitalize">SAFF INVEST AFGHANISTAN</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Behind Suriya High School,
@@ -117,7 +117,7 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h3 class="text-capitalize">SAFF INVEST USA</h3>
+                <h5 class="text-capitalize">SAFF INVEST USA</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 6412 Brandon Ave #341 Springfield, VA 22150 USA
