@@ -13,15 +13,17 @@ get_header(); ?>
 <section class="ls columns_padding_25 section_padding_top_75 section_padding_bottom_100">
     <div class="container">
         <div class="row">
-
-            <div class="col-md-8 to_animate" data-animation="scaleAppear">
+    <div class="col-md-12">
+        <div class="col-md-4">
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
 
                 <h3 class="text-capitalize">İletişim Formu</h3>
 
                 <?php echo do_shortcode( '[contact-form-7 id="609" title="İletişim formu 1"]' ); ?>
             </div>
-            <!--.col-* -->
+        </div>
 
+        <div class="col-md-8">
             <div class="col-md-4 to_animate" data-animation="scaleAppear">
 
                 <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
@@ -37,9 +39,120 @@ get_header(); ?>
                 </p>
 
             </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+                <h3 class="text-capitalize">İletişim Bilgilerimiz</h3>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
             <!--.col-* -->
 
-        </div>
         <!--.row -->
 
     </div>
