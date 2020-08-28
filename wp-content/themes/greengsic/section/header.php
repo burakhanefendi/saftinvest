@@ -107,15 +107,12 @@
                                     <li>
                                         <a href="/nasil-calisiyoruz">Nasıl Çalışıyoruz</a>
                                     </li>
-                                    <li>
-                                        <a href="/grup-sirketlerimiz/">Grup Şirketlerimiz</a>
-                                    </li>
                                 </ul>
                             </li>
                             <!-- eof pages -->
 
                             <li>
-                                <a href="#">Ürünler</a>
+                                <a href="#">Faaliyet Alanları</a>
                                 <ul>
                                     <li>
                                         <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
@@ -154,7 +151,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="/tekstil">Tekstil</a>
+                                        <a href="/markalar">Markalar</a>
                                     </li>
                                     <li>
                                         <a href="/tesisler">Lojistik Tesisler</a>
@@ -168,7 +165,7 @@
 
                             <!-- gallery -->
                             <li>
-                                <a href="/markalar">Markalar</a>
+                                <a href="/grup-sirketlerimiz/">Grup Şirketlerimiz</a>
                             </li>
                             <!-- eof Gallery -->
 
