@@ -115,16 +115,10 @@
                                 <a href="#">Faaliyet Alanları</a>
                                 <ul>
                                     <li>
-                                        <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
-                                    </li>
-                                    <li>
-                                        <a href="/gida">Gıda Ürünleri</a>
-                                    </li>
-                                    <li>
-                                        <a href="/tarim">Tarım</a>
-                                    </li>
-                                    <li>
                                         <a href="/insaat-altyapi">İnşaat ve Altyapı</a>
+                                    </li>
+                                    <li>
+                                        <a href="/urunlere-genel-bakis/">Ürünlere Genel Bakış</a>
                                     </li>
 
                                     <li>
@@ -140,16 +134,22 @@
                                     <li>
                                         <a href="/mobilya-ve-aksesuar/">Mobilya ve Aksesuar</a>
                                     </li>
-                                    <li>
-                                        <a href="/hayvancilik-2/">Hayvancılık</a>
-                                    </li>
+
                                     <li>
                                         <a href="/saglik-turizmi">Sağlık Turizmi</a>
                                     </li>
                                     <li>
+                                        <a href="/hayvancilik-2/">Hayvancılık</a>
+                                    </li>
+                                    <li>
                                         <a href="/egitim-2">Eğitim</a>
                                     </li>
-
+                                    <li>
+                                        <a href="/gida">Gıda Ürünleri</a>
+                                    </li>
+                                    <li>
+                                        <a href="/tarim">Tarım</a>
+                                    </li>
                                     <li>
                                         <a href="/markalar">Markalar</a>
                                     </li>
