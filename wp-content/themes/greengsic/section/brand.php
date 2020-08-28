@@ -1,5 +1,5 @@
 <section class="brand-carousel">
-    <div id="adv_range_4_columns_carousel" class="carousel slide four_shows_one_move range_slides_carousel_wrapper swipe_x" data-ride="carousel" data-duration="1000" data-interval="1500" data-pause="hover">
+    <div id="adv_range_4_columns_carousel" class="carousel slide four_shows_one_move range_slides_carousel_wrapper swipe_x" data-ride="carousel" data-duration="3000" data-interval="1500" data-pause="hover">
 
         <!--========= Wrapper for slides =========-->
         <div class="carousel-inner range_slides_carousel_inner" role="listbox">
