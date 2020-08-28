@@ -7,7 +7,7 @@
 
 
         <section class="ls section_padding_top_30 section_padding_bottom_150">
-            <div class="container">
+            <div class="container" style="padding-top: 0 !important;">
                 <div class="row">
                     <div class="col-sm-12">
                         <article class="post format-small-image with_border side-item side-md content-padding responsive-thumb rounded topmargin_40">
