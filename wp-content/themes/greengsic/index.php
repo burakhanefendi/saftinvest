@@ -10,7 +10,7 @@
             <div class="container" style="padding-top: 0 !important;">
                 <div class="row">
                     <div class="col-sm-12">
-                        <article class="post format-small-image with_border side-item side-md content-padding responsive-thumb rounded topmargin_40">
+                        <article class="post format-small-image with_border side-item side-md content-padding responsive-thumb rounded">
 
                             <!-- <div class=""> -->
 

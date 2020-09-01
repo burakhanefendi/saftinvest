@@ -80,3 +80,9 @@
 .header_white {
     height: 120px !important;
 }
+@media (max-width: 767px){
+    .page_footer > .container {
+        padding-top: 0px !important;
+    }
+
+}
