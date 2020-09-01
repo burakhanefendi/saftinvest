@@ -29,7 +29,7 @@ get_header(); ?>
                 <h5 class="text-capitalize">SAFF INVEST TURKEY</h5>
 
                 <p>
-                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> FSM Mah. Poligon Cd. Buyaka 2 Sitesi, No:8C Kule-3, Kat:20 Daire: 114, Ümraniye, İstanbul- Turkey
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 19 Mayıs Mh. Dr. Hüsnü İsmet Öztürk Sk. No: 9 Şişli-İstanbul - Türkiye
                 </p>
                 <p>
                     <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  0(212) 295 85 98
@@ -41,97 +41,50 @@ get_header(); ?>
             </div>
             <div class="col-md-6 to_animate" data-animation="scaleAppear">
 
-                <h5 class="text-capitalize">SAFF INVEST ENGLAND</h5>
+                <h5 class="text-capitalize">ODAM</h5>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 223 rue du faubourg saint martin 75010 Paris - France
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  +33 01 86 86 02 02
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-6 to_animate" data-animation="scaleAppear">
+
+                <h5 class="text-capitalize">WEKER DABA
+                    AVENDIA DIAGONAL</h5>
+
+                <p>
+                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 601 08028 Barcelona Spain
+                </p>
+                <p>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  +34 07 51 50 70 70
+                </p>
+                <p class="greylinks">
+                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
+                </p>
+
+            </div>
+            <div class="col-md-6 to_animate" data-animation="scaleAppear">
+
+                <h5 class="text-capitalize">UNITED KINGDOM</h5>
 
                 <p>
                     <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Unit 30176, PO Box 92, Cardiff, CF11 1NB, United Kingdom
                 </p>
                 <p>
-                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
+                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>  +44 7425 010094
                 </p>
                 <p class="greylinks">
                     <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
                 </p>
 
             </div>
-            <div class="col-md-6 to_animate" data-animation="scaleAppear">
-
-                <h5 class="text-capitalize">SAFF INVEST DUBAI</h5>
-
-                <p>
-                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 2301, Jumeriah Business Center 2, Cluster V, JLT, Dubai-U.A.E.
-                </p>
-                <p>
-                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-                </p>
-                <p class="greylinks">
-                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
-                </p>
-
-            </div>
-            <div class="col-md-6 to_animate" data-animation="scaleAppear">
-
-                <h5 class="text-capitalize">SAFF INVEST KSA</h5>
-
-                <p>
-                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> FSM Mah. Poligon Cd. Buyaka 2 Sitesi, No:8C Kule-3, Kat:20 Daire: 114, Ümraniye, İstanbul- Turkey
-                </p>
-                <p>
-                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-                </p>
-                <p class="greylinks">
-                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
-                </p>
-
-            </div>
-            <div class="col-md-6 to_animate" data-animation="scaleAppear">
-
-                <h5 class="text-capitalize">SAFF INVEST OMAN</h5>
-
-                <p>
-                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Office No:14, Building 358, Way 5003, Ghala, Muscat-Oman
-                </p>
-                <p>
-                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-                </p>
-                <p class="greylinks">
-                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
-                </p>
-
-            </div>
-            <div class="col-md-6 to_animate" data-animation="scaleAppear">
-
-                <h5 class="text-capitalize">SAFF INVEST AFGHANISTAN</h5>
-
-                <p>
-                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> Behind Suriya High School,
-                    Kart- e Char, Kabul-Afghanistan
-                </p>
-                <p>
-                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-                </p>
-                <p class="greylinks">
-                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
-                </p>
-
-            </div>
-            <div class="col-md-6 to_animate" data-animation="scaleAppear">
-
-                <h5 class="text-capitalize">SAFF INVEST USA</h5>
-
-                <p>
-                    <i class="fa fa-map-marker highlight rightpadding_5" aria-hidden="true"></i> 6412 Brandon Ave #341 Springfield, VA 22150 USA
-
-                </p>
-                <p>
-                    <i class="fa fa-phone highlight rightpadding_5" aria-hidden="true"></i>
-                </p>
-                <p class="greylinks">
-                    <i class="fa fa-envelope highlight rightpadding_5" aria-hidden="true"></i> <a href="mailto:info@saffinvest.com">info@saffinvest.com</a>
-                </p>
-
-            </div>
-
         </div>
 
     </div>
