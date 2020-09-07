@@ -43,7 +43,7 @@
 								</span>
                         </div>
                     </div>
-                    <div class="col-sm-4 text-center">
+                    <div class="col-sm-4 text-center mobile-none">
                         <div>
                             <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/saffinvest/" title="Facebook"></a>
                             <a class="social-icon color-icon soc-twitter" href="https://twitter.com/SaffInvest" title="Twitter"></a>
@@ -52,7 +52,7 @@
 
                         </div>
                     </div>
-                    <div class="col-sm-4 text-center mobile-hidden">
+                    <div class="col-sm-4 text-center mobile-none">
                         <!-- Example single danger button -->
                         <nav>
                             <ul class="sf-menu" style="height: 50px">
