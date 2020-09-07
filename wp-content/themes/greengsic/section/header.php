@@ -201,6 +201,25 @@
                                 <a href="/iletisim">Bize Ulaşın</a>
                             </li>
                             <!-- eof contacts -->
+                            <li class="desk-hidden">
+                                <a href="#">TR</a>
+                                <ul>
+                                    <li><a href="#">EN</a></li>
+                                    <li><a href="#">AR</a></li>
+                                </ul>
+                            </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-facebook" href="https://www.facebook.com/saffinvest/" title="Facebook"></a>
+                            </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-twitter" href="https://twitter.com/SaffInvest" title="Twitter"></a>
+                            </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-linkedin" href="https://www.linkedin.com/in/saff-invest-b879181b3/" title="Linkedin"></a>
+                            </li>
+                            <li class="desk-hidden" style="width: 25%; float: left;">
+                                <a class="social-icon color-icon soc-instagram" href="https://www.instagram.com/saffinvestt/?hl=tr" title="Instagram"></a>
+                            </li>
                         </ul>
                     </nav>
                     <!-- eof main nav -->
