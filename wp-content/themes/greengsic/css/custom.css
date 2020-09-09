@@ -106,9 +106,6 @@
         margin-top: 30px !important;
         font-size: 22px !important;
     }
-    #fw_al_001 > .carousel-inner > .item > img, #fw_al_001 > .carousel-inner > .item > a > img {
-        display: none;
-    }
 
 }
 .desk-hidden {
