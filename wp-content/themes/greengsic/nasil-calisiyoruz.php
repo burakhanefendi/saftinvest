@@ -49,14 +49,13 @@ get_header(); ?>
                     <p>
                         <ul style="text-align: left">
                         <li>
-                            GÜVENİLİR: Tedarik kaynaklarımız tüm dünyaya yayılmaktadır. Böylece müşterilerimiz rahatlayabilir ve kendinden emin olabilirler.
+                            GÜVENİLİR: Tedarikçi kaynaklarımız tüm dünyaya yayılmaktadır ve böylece müşterilerimiz her konuda bizlere rahatlıkla ulaşabiliyor.
                         </li>
                         <li>
-                            DENEYİMLİ: Küresel ticarette uzun yıllar boyunca, metaların etkili bir şekilde tedarik edilmesi yoluyla iyi niyet elde ettik.
+                            DENEYİMLİ: Küresel ticarette uzun yıllar boyunca, inşaat, altyapı ve üstyapı, enerji, maden ve yumuşak emtialarda göstermiş olduğumuz yüksek deneyim ve tecrübe bizleri güvenilir bir marka yapmıştır.
                         </li>
                         <li>
-                            WIN-WIN İÇİNDEKİLER: Güçlü tedarikçi ve müşteri tabanının birleşimi, bizi Orta Doğu ve BDT ülkelerinde yenilmemiş bir kaynak haline getiriyor.
-                        </li>
+                            KAZAN-KAZAN: Güçlü tedarikçi ağımız ve müşterilerimiz, bizleri Orta Doğu, BDT ve digger ülkeler arasında saygın bir şirket olduğumuzu göstermektedir.                        </li>
                     </ul>
                     </p>
 
@@ -73,14 +72,12 @@ get_header(); ?>
                     <p>
                         <ul style="text-align: left">
                         <li>
-                            Güvenilir ortaklarımız ve ortaklarımızla gücümüzün bölgeleri içerisinde pazarlamak ve ticaret yapmak.
+                            Güvenilir ortaklarımızla gücümüzü birleştirerek, yeni pazarlar keşfetmek ve kendi bölgeleri içerisinde güçlü ticaretler yapmak.
                         </li>
                         <li>
-                            Paydaşlarının gelişiminin her aşamasında hizmet verdiğimiz ve desteklediğimiz pazarlarda güvenilir ve rekabetçi bir ortak olmaya çalışın.
-                        </li>
+                            Ortaklarımızın gelişiminin her aşamasında hizmet verdiğimiz ve desteklediğimiz pazarlarda güvenilir ve rekabetçi bir firma olmaya çalışmak.                        </li>
                         <li>
-                            Yıllar boyunca güç ve uzmanlığın elde edildiği ürünlere odaklanın. Müşterilerimize pazar desteği ve hizmetleri sağlamak ve uzun vadeli karşılıklı fayda sağlamak için onlarla uyum sağlamak.
-                        </li>
+                            Tecrübe ve uzmanlığın elde edildiği ürünlere ağırlık veririz. Müşterilerimize pazar desteği, hizmetler sağlamak ve uzun vadeli karşılıklı fayda sağlamak için onlarla uyum içinde çalışmak.                        </li>
                     </ul>
                     </p>
 
@@ -97,17 +94,16 @@ get_header(); ?>
                     <p>
                         <ul style="text-align: left">
                         <li>
-                            Kaliteye özel önem veren, tutarlı tedarik sağlayan özel ve profesyonel personel.
+                            Kaliteye özel önem veren, güçlü çözüm ortaklarına sahip olan ve konusunda profesyonel ekiple çalışmak.
                         </li>
                         <li>
-                            Eşsiz ve Eşsiz Lojistik Sistemi. Faaliyet gösterdiği bölgelerde depolama ve depolama düzenlemelerine sahip olmak.
+                            Faaliyet gösterdiği bölgelerde, lojistik destek, depolama düzenlemelerine sahip olmak.
                         </li>
                         <li>
-                            Bölgesel pazarlarda yılların deneyimi.
+                            Globa pazarlar ve bölgesel pazarlarda tecrübe ve deneyim.
                         </li>
                         <li>
-                            Müşteri memnuniyetine dayalı güvenilir pazar payı.
-                        </li>
+                            Müşteri memnuniyetine dayalı güvenilir pazar payı.                        </li>
                         <li>
                             Faaliyet gösterdiği alanlarda müşterileri ile güçlü ortaklık ve işbirliği.
                         </li>
